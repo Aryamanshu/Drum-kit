@@ -53,6 +53,7 @@
         case "w":
         var kick =  new Audio("sounds/kick-bass.mp3");
         kick-bass.play(); // its a constructor function
+        console.log("pressed");
         break;
         
         case "a":
